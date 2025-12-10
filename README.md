@@ -983,3 +983,9 @@ ESLint отказывается от правил форматирования �
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.404563422661!2d101.73815839999999!3d17.392362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312140c291e7ec57%3A0x44e726129590bb58!2z4Liq4LiW4Liy4LiZ4Li14Lin4Li04LiX4Lii4Li44LiB4Lij4Liw4LiI4Liy4Lii4LmA4Liq4Li14Lii4LiH4LiV4Liz4Lij4Lin4LiI4Lig4Liy4LiEIDQg4LiI4Lix4LiH4Lir4Lin4Lix4LiU4LmA4Lil4Lii!5e0!3m2!1sth!2sth!4v1765371350233!5m2!1sth!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ```
 <img width="222" height="227" alt="default" src="https://github.com/user-attachments/assets/c3e1fd98-c192-4471-af24-8386d22bb5ca" />
+```
+git branch -m main 68141
+git fetch origin
+git branch -u origin/68141 68141
+git remote set-head origin -a
+```
